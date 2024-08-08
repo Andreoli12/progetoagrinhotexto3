@@ -91,3 +91,9 @@
   .registros-titulo {
     font-family: "Poppins", sans-serif;
   }
+  footer{
+    background-color: #edf041;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+  }
